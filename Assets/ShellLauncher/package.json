@@ -1,0 +1,13 @@
+﻿{
+  "name": "com.bigdra50.shell-launcher",
+  "version": "1.0.0",
+  "displayName": "Shell Launcher",
+  "description": "Add Shell launcher menu",
+  "documentationUrl": "https://github.com/bigdra50/ShellLauncher",
+  "author": {
+    "name": "bigdra50",
+    "email": "bigdra50@gmail.com",
+    "url": "https://github.com/bigdra50"
+  },
+  "dependencies": {}
+}
